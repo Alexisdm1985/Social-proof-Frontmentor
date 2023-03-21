@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontmentor]()
+- Solution URL: [Frontmentor](https://www.frontendmentor.io/solutions/responsive-social-proof-section-using-css-flexboxgrid-WML6FM25oL)
 - Live URL: [Github Pages](https://alexisdm1985.github.io/Social-proof-Frontmentor/)
 
 
